@@ -22,7 +22,8 @@ Result: 10 * 5 = 50
 
 ## Bonus Challenges
 
-- Prevent division by zero and show an appropriate error message.  
+- Prevent division by zero and show an appropriate error message.
+- Automatically ask the user if they want to do another calculation WITHOUT refreshing the page.
 - Improve user experience with meaningful error handling and messages.
 - Allow users the option to get the exponent of a number (you might need to google this)
 - Allow users to find the Square Root of a number (this will be a control flow challenge as it will only require a single number input)

@@ -9,7 +9,6 @@ This lab is designed for beginner to intermediate learners and focuses on provid
 
 ## Content
 
-- [Setup](./setup/README.md)
 - [Exercise](./exercise/README.md)
 
 ## Internal
@@ -21,24 +20,3 @@ This lab is designed for beginner to intermediate learners and focuses on provid
 ### Time to complete
 
 Estimated time to complete core lab exercise: **90 min**
-
-### Solution code
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/intro-to-javascript-arrays-lab-solution)
-
-### Course landing pages
-
-- [Default Landing Page](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-javascript-arrays-lab/canvas-landing-pages/fallback)
-- [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-javascript-arrays-lab/canvas-landing-pages/seb)
-
-### Resources
-
-✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
-
-🎥 [Video Hub](./internal-resources/video-hub.md)
-
-🏗️ [Release Notes](./internal-resources/release-notes.md)
-
----
-
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback)!**

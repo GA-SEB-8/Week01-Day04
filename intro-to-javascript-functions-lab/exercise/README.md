@@ -34,7 +34,7 @@ If they're equal, return either one.
 Exercise 1 has been completed for you:
 */
 
-const maxOfTwoNumbers = (x, y) => {
+function maxOfTwoNumbers(x, y) {
   if (x >= y) {
     return x;
   } else {
